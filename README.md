@@ -10,3 +10,6 @@ BLOSUM62 Scoring Matrix: Employs the BLOSUM62 scoring matrix for match and misma
 Usage:
 Input two amino acid sequences and gap penalty parameters.
 Obtain the maximum alignment score and the corresponding aligned sequences.
+
+
+Assignment 1 of CMPE549 - Bioinformatics course at Bogazici University.
