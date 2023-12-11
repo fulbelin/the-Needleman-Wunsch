@@ -1,5 +1,5 @@
 # the-Needleman-Wunsch
-Pairwise Sequence Global Alignment 
+Pairwise Sequence Global Alignment implementation
 
 Implementing the Needleman-Wunsch global sequence alignment algorithm with both linear and affine gap penalties. This algorithm takes two amino acid sequences and gap penalty parameters as input, providing the maximum alignment score along with the alignment achieving this score. In cases of multiple optimal alignments, the algorithm outputs one of them.
 
